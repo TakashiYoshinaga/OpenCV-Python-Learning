@@ -13,7 +13,7 @@ OpenCV-Learningフォルダ内にあります。また、Imagesフォルダ内�
 OpenCV-python Tutorial<br>
 https://opencv-python-tutroals.readthedocs.io/en/latest/
 (原版)<br>
-labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/index.html
+http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/index.html
 (日本語版)<br>
 
 
