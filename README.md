@@ -11,6 +11,8 @@ OpenCV-Learningフォルダ内にあります。また、Imagesフォルダ内�
 05. [HSVを使った色抽出(リアルタイム動画)](https://github.com/TakashiYoshinaga/OpenCV-Python-Learning/blob/master/OpenCV-Learnig/05.%20HSV%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%89%B2%E6%8A%BD%E5%87%BA(%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E5%8B%95%E7%94%BB).ipynb)
 06. [アフィン変換(拡大縮小・並進・回転・変形)と射影変換](https://github.com/TakashiYoshinaga/OpenCV-Python-Learning/blob/master/OpenCV-Learnig/06.%20%E3%82%A2%E3%83%95%E3%82%A3%E3%83%B3%E5%A4%89%E6%8F%9B%E3%81%A8%E5%B0%84%E5%BD%B1%E5%A4%89%E6%8F%9B.ipynb)
 07. [しきい値処理と二値化](https://github.com/TakashiYoshinaga/OpenCV-Python-Learning/blob/master/OpenCV-Learnig/07.%20%E3%81%97%E3%81%8D%E3%81%84%E5%80%A4%E5%87%A6%E7%90%86%E3%81%A8%E4%BA%8C%E5%80%A4%E5%8C%96.ipynb)
+08. [画像の統合・合成](https://github.com/TakashiYoshinaga/OpenCV-Python-Learning/blob/master/OpenCV-Learnig/08.%20%E7%94%BB%E5%83%8F%E3%81%AE%E7%B5%B1%E5%90%88%E3%83%BB%E5%90%88%E6%88%90.ipynb)
+09. [画像フィルタリングと平滑化](https://github.com/TakashiYoshinaga/OpenCV-Python-Learning/blob/master/OpenCV-Learnig/09.%20%E7%94%BB%E5%83%8F%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A8%E5%B9%B3%E6%BB%91%E5%8C%96.ipynb)
 <br><br>
 ## 参考
 本サンプルは下記を演習しアレンジした内容になります。<br>
